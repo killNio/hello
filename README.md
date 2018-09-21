@@ -3,6 +3,52 @@ https://www.processon.com/diagrams
 673070041@qq.com     saisai520...
 
 
+https://www.cnblogs.com/softidea/p/6251249.html
+http://www.cnblogs.com/yanqin/p/9178675.html
+https://yanbin.blog/springfox-swagger2-generate-api-documet/
+https://blog.csdn.net/sai739295732/article/details/73506078
+https://yanbin.blog/springfox-single-resource-operation-multiple-methods-swagger-documentation/#more-8686
+
+netty
+https://blog.csdn.net/youaremoon/article/details/50279965
+https://www.cnblogs.com/wade-luffy/p/6229410.html
+https://www.cnblogs.com/solq111/p/7071177.html
+https://segmentfault.com/a/1190000013016083
+http://www.cnblogs.com/winkey4986/p/6203225.html
+https://blog.csdn.net/u011262847/article/details/78208583
+https://blog.csdn.net/weixin_40318210/article/details/78943311
+https://blog.csdn.net/lz710117239/article/details/77484367
+https://www.jianshu.com/p/e5d26738922f
+https://my.oschina.net/lifany/blog/517275
+http://bokelaiqipai.com.segmentfault.com/a/1190000013472152
+https://www.cnblogs.com/xing901022/p/8678869.html
+https://blog.csdn.net/u013967175/article/details/78627728
+https://blog.csdn.net/luckyzhoustar/article/details/78294083
+https://blog.csdn.net/MOVIE14/article/details/76343825
+https://cloud.tencent.com/developer/user/2183446
+https://www.cnblogs.com/lighten/p/8988989.html
+http://www.linkedkeeper.com/detail/blog.action?bid=1027&utm_medium=hao.caibaojian.com&utm_source=hao.caibaojian.com
+https://www.jianshu.com/p/0016cbcf6eea
+
+https://juejin.im/post/5921927c44d904006cca9720 
+https://www.cnblogs.com/throwable/p/9139947.html
+https://blog.csdn.net/alex19881006/article/category/2216273
+https://blog.csdn.net/anla_/article/details/78631026
+https://segmentfault.com/a/1190000013951261
+https://www.cnblogs.com/chenyangyao/p/5269622.html unsafe
+https://blog.csdn.net/majinggogogo/article/details/79736958
+https://www.cnblogs.com/wade-luffy/p/6203856.html
+https://my.oschina.net/huangy/blog/1620321
+https://www.cnblogs.com/szlbm/p/5505695.html
+https://www.cnblogs.com/suxuan/p/4948608.html
+https://www.jianshu.com/p/9819eb48716a
+https://www.cnblogs.com/xrq730/p/4976007.html
+https://www.jianshu.com/p/ff0711c69fb2
+http://huangyunbin.iteye.com/blog/1942369
+https://www.jianshu.com/p/a897c4b8929f
+https://blog.csdn.net/dfdsggdgg/article/details/51543545
+https://blog.csdn.net/lvbaolin123/article/details/80527598
+
 https://blog.csdn.net/u014534808/article/details/80959453 从零开始造Spring02---实现setter注入
 
 https://blog.csdn.net/ShrCheng/article/details/80769458  第七弹-自定义RowMapper
